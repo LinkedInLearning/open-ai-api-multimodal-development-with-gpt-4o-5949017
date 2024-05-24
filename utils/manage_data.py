@@ -43,7 +43,6 @@ def add_rows(expenses_df, receipt_data):
             "Name": item.get("name", ""),
             "Quantity": item.get("quantity", 1),
             "Price": item.get("price", 0),
-            "Tax": item.get("tax", 0),
             "Category": item.get("category", "Uncategorized"),
             "Payment method": receipt_data.get("payment_method", "Unknown"),
         }
