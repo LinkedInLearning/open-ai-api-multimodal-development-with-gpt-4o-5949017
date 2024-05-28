@@ -33,10 +33,6 @@ function_call = [
                             "type": "integer",
                             "description": "Quantity of item",
                         },
-                        "tax": {
-                            "type": "number",
-                            "description": "Based on the tax rate of the location, the tax amount of the item.",
-                        },
                         "category": {
                             "type": "string",
                             "description": "Category of item",
