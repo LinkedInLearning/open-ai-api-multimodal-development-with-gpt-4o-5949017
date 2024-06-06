@@ -1,6 +1,10 @@
 # OpenAI API: Multimodal development with GPT-4o
 This is the repository for the LinkedIn Learning course `OpenAI API: Multimodal development with GPT-4o`. The full course is available from [LinkedIn Learning][lil-course-url].
 
+![lil-thumbnail-url]
+
+In this hands-on course you’ll use the OpenAI API to leverage the multimodal capabilities of GPT-4o and function calling to extract text from images, conform the data to JSON, and call functions to save the extracted data to a spreadsheet.
+
 _See the readme file in the main branch for updated instructions and information._
 ## Instructions
 This repository holds example data and two Jupyter Notebooks:
@@ -24,6 +28,6 @@ To use the exercise files, follow these steps:
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: http://
+[lil-course-url]: https://www.linkedin.com/learning/openai-api-multimodal-development-with-gpt-4o
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQGS0vRVwKdWFA/learning-public-crop_675_1200/0/1717614951203?e=2147483647&v=beta&t=yxSRcQyCVdlePkoehpxmq_J0ausaC5o_qmzdPPhCZqA
 
