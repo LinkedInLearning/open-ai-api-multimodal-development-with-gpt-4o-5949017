@@ -29,5 +29,5 @@ To use the exercise files, follow these steps:
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
 [lil-course-url]: https://www.linkedin.com/learning/openai-api-multimodal-development-with-gpt-4o
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQGS0vRVwKdWFA/learning-public-crop_675_1200/0/1717614951203?e=2147483647&v=beta&t=yxSRcQyCVdlePkoehpxmq_J0ausaC5o_qmzdPPhCZqA
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D4E0DAQH67m3BQizrcw/learning-public-crop_675_1200/0/1717777723110?e=2147483647&v=beta&t=QpXxJL0FkIrZVPHZDGci173murlG_Yf8FJiERdEhJ_0
 
